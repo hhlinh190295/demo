@@ -1,0 +1,10 @@
+.FlexSidaBar {
+    display: flex;
+    flex: 2;
+    align-items: center;
+    background-color: gray;
+    border-right: 1px solid #ddd;
+}
+.SpaceLine {
+    line-height: 5;
+}
